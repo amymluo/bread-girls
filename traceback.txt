@@ -1,0 +1,21 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/day2.rpy", line 110, in script
+    jump bDate1
+ScriptError: could not find label 'bDate1'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/day2.rpy", line 110, in script
+    jump bDate1
+  File "/Applications/renpy-6.99.13-sdk/renpy/ast.py", line 1552, in execute
+    rv = renpy.game.script.lookup(target)
+  File "/Applications/renpy-6.99.13-sdk/renpy/script.py", line 861, in lookup
+    raise ScriptError("could not find label '%s'." % str(original))
+ScriptError: could not find label 'bDate1'.
+
+Darwin-17.2.0-x86_64-i386-64bit
+Ren'Py 6.99.13.2919
+Bread Girls 1.0
