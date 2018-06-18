@@ -145,17 +145,23 @@ label sdDate2:
     
     "[name]" "Hi Touma, I didn't know you liked biking."
     
-    td "I didn't have a lot of homework this weekend"
+    td "I didn't have a lot of homework this weekend, and it’s really nice out today so I thought I’d bike around and enjoy it."
+    
+    "He looks at Sourdough, still clutching my arm."
+    
+    td "So, uh, anyways, it’s nice to see the both of you! I’ll leave you two alone now to have fun on your date."
+    
+    sd "H-hey, it’s not like that!"
 
-    
-    
-    
-    
-    
-    
+    "Sourdough lets go of your arm."
 
+    "He flashes you a big smile before biking away quickly."
 
+    sd "I see you and Touma together a lot, you guys seem to be good friends."
     
+    sd "Maybe you should invite him to play Super Party Attack™ with us sometime!"
+
+    "I think about how it’d be fun to hang out with Touma more outside of school, and nod."
     
     
     $ num = datesDone["sd"]

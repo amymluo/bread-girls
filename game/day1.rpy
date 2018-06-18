@@ -241,10 +241,10 @@ label ramenDate:
     "[name]" "Let's see, you know Sourdough of course, but I also talked to a really imaginative first-year who thought she was a superhero or something, a kinda intimidating girl smoking on the roof, a really quiet girl in the library, and the French girl in our class."
 
     "Touma looks down at his ramen bowl."
-
-    td "All girls, huh?  Did any of them… catch your rye?"
     
     show td wink
+
+    td "All girls, huh?  Did any of them… catch your rye?"
 
     "He playfully nudges your shoulder and you can feel the heat rising in your cheeks."
 
