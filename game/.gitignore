@@ -1,4 +1,4 @@
 .DS_Store
-game/saves/
+game/saves/*
 errors.txt
 log.txt
